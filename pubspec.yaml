@@ -39,12 +39,18 @@ dependencies:
   json_serializable: 
   flutter_bloc: 
   bloc: 
-  get_it: 
-  get: 
+  dio: 
+  dio_http_cache:
+  intl:
+  cached_network_image: 
+  pull_to_refresh: 
+  get_it:  
   rxdart: 
   shared_preferences: 
   google_fonts: 
   url_launcher: 
+  animations: ^2.0.7
+  fluttertoast: ^8.2.2
 
   
 dev_dependencies:
